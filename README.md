@@ -1,2 +1,1 @@
-# noob01
-fundamentals
+This is my first project
