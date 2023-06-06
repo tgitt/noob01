@@ -1,0 +1,2 @@
+# noob01
+fundamentals
